@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_calendar_date_time_1" label="Date / Time of Service" language="en" table="x_1441475_supply_0_tire_service">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_calendar_date_time_1</element>
+            <help/>
+            <hint/>
+            <label>Date / Time of Service</label>
+            <language>en</language>
+            <name>x_1441475_supply_0_tire_service</name>
+            <plural>Date / Time of Services</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 12:50:07</sys_created_on>
+            <sys_id>dd2e0da493df86100b70322efaba10bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date / Time of Service</sys_name>
+            <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+            <sys_update_name>sys_documentation_x_1441475_supply_0_tire_service_u_calendar_date_time_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 12:50:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
