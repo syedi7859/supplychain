@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="requester" table="x_1441475_supply_0_tire_service">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="days" table="x_1441475_supply_0_rentals">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -10,10 +10,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Requester</column_label>
+        <column_label>Days</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,21 +26,21 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>requester</element>
+        <element>days</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>true</mandatory>
-        <max_length>32</max_length>
-        <name>x_1441475_supply_0_tire_service</name>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1441475_supply_0_rentals</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,15 +51,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-06 12:43:35</sys_created_on>
-        <sys_id>e77c892493df86100b70322efaba1056</sys_id>
-        <sys_name>Requester</sys_name>
+        <sys_created_on>2024-07-06 19:37:17</sys_created_on>
+        <sys_id>d95bee6093d7c6100b70322efaba10c6</sys_id>
+        <sys_name>Days</sys_name>
         <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
-        <sys_update_name>sys_dictionary_x_1441475_supply_0_tire_service_requester</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1441475_supply_0_rentals_days</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-06 19:00:09</sys_updated_on>
+        <sys_updated_on>2024-07-06 19:37:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
