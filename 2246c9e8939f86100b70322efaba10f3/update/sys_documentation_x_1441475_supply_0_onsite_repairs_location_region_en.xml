@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="location_region" label="Location/Region" language="en" table="x_1441475_supply_0_onsite_repairs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location_region</element>
+            <help/>
+            <hint/>
+            <label>Location/Region</label>
+            <language>en</language>
+            <name>x_1441475_supply_0_onsite_repairs</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:05:03</sys_created_on>
+            <sys_id>dcb13228939f0210481330a97bba10bf</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Location/Region</sys_name>
+            <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+            <sys_update_name>sys_documentation_x_1441475_supply_0_onsite_repairs_location_region_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:14:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

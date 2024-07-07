@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2cb17228939f0210481330a97bba101a" sys_domain="global" table="x_1441475_supply_0_onsite_repairs" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:05:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78b17228939f0210481330a97bba101e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1441475_supply_0_onsite_repairs" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2cb17228939f0210481330a97bba101a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">e199892c939f86100b70322efaba1027</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:05:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:05:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4b17228939f0210481330a97bba101f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1441475_supply_0_onsite_repairs" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2cb17228939f0210481330a97bba101a</sys_ui_form>
+            <sys_ui_section caption="Approval Workflow " display_value="Approval Workflow " name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">6cb17228939f0210481330a97bba1019</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:05:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1441475_supply_0_onsite_repairs</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:05:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cb17228939f0210481330a97bba101a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441475_supply_0_onsite_repairs</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2cb17228939f0210481330a97bba101a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:05:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
