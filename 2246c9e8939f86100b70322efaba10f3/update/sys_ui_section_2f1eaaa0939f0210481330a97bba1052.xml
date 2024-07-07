@@ -1,72 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="New section 1" section_id="2f1eaaa0939f0210481330a97bba1052" sys_domain="global" table="x_1441475_supply_0_onsite_repairs" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date_time_of_service</element>
+            <element>short_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
-            <sys_id>af1eaaa0939f0210481330a97bba1053</sys_id>
+            <sys_created_on>2024-07-06 19:49:51</sys_created_on>
+            <sys_id>b93e2ea0939f0210481330a97bba10a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
+            <sys_ui_section display_value="">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
+            <sys_updated_on>2024-07-06 19:49:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requestor</element>
+            <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
-            <sys_id>a71eaaa0939f0210481330a97bba1054</sys_id>
+            <sys_created_on>2024-07-06 19:49:51</sys_created_on>
+            <sys_id>b13e2ea0939f0210481330a97bba10a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
+            <sys_ui_section display_value="">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
+            <sys_updated_on>2024-07-06 19:49:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vendor</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
-            <sys_id>af1eaaa0939f0210481330a97bba1054</sys_id>
+            <sys_created_on>2024-07-06 19:49:51</sys_created_on>
+            <sys_id>b93e2ea0939f0210481330a97bba10a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
+            <sys_ui_section display_value="">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
+            <sys_updated_on>2024-07-06 19:49:51</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>estimate</element>
+            <element>work_notes</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
-            <sys_id>a71eaaa0939f0210481330a97bba1055</sys_id>
+            <sys_created_on>2024-07-06 19:49:51</sys_created_on>
+            <sys_id>b13e2ea0939f0210481330a97bba10a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
+            <sys_ui_section display_value="">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>unit</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
-            <sys_id>af1eaaa0939f0210481330a97bba1055</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="Default view">2f1eaaa0939f0210481330a97bba1052</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
+            <sys_updated_on>2024-07-06 19:49:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -77,7 +63,7 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-06 19:49:26</sys_created_on>
+            <sys_created_on>2024-07-06 19:49:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2f1eaaa0939f0210481330a97bba1052</sys_id>
@@ -89,7 +75,7 @@
             <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
             <sys_update_name>sys_ui_section_2f1eaaa0939f0210481330a97bba1052</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-06 19:49:26</sys_updated_on>
+            <sys_updated_on>2024-07-06 19:49:51</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
