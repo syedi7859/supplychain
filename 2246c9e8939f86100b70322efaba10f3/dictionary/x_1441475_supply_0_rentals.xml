@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a5b9c52093df86100b70322efaba1034" extends="task" label="Rentals" max_length="40" name="x_1441475_supply_0_rentals" type="collection">
+        <element label="Vendor" mandatory="true" max_length="32" name="vendor" reference="sys_user" type="reference"/>
+        <element label="Environmental Fee" max_length="40" name="environmental_fee" type="string"/>
+        <element choice="1" label="Qty" max_length="40" name="qty" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element label="Labor" max_length="40" name="labor" type="string"/>
+        <element label="Invoice Date" max_length="255" name="invoice_date" type="calendar_date_time"/>
+        <element label="Rental Cost" max_length="20" name="rental_cost" type="price"/>
+        <element choice="1" label="Frac Spread" max_length="40" name="frac_spread" type="choice">
+            <choice/>
+        </element>
+        <element label="Facilities of Customer" mandatory="true" max_length="32" name="facilities_of_customer" reference="sys_user" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_date" type="calendar_date_time"/>
+        <element label="Month" mandatory="true" max_length="40" name="month" type="glide_date"/>
+        <element label="End Date" max_length="40" name="end_date" type="calendar_date_time"/>
+        <element choice="1" label="GL Code" max_length="40" name="gl_code" type="choice">
+            <choice/>
+        </element>
+        <element label="Other" max_length="40" name="other" type="string"/>
+        <element label="Requested by" max_length="40" name="requested_by" type="string"/>
+        <element label="Expected Cost" max_length="20" name="expected_cost" type="currency"/>
+        <element choice="1" label="Model" max_length="40" name="model" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Model 1" sequence="0" value="Model 1"/>
+                <element inactive_on_update="false" label="Model 2" sequence="1" value="Model 2"/>
+                <element inactive_on_update="false" label="Model 3" sequence="2" value="Model 3"/>
+                <element inactive_on_update="false" label="Model 4" sequence="3" value="Model 4"/>
+            </choice>
+        </element>
+        <element label="Date Sent to AP" max_length="255" name="date_sent_to_ap" type="calendar_date_time"/>
+        <element label="Cost Per Day" max_length="20" name="cost_per_day" type="price"/>
+        <element label="Invoice #" max_length="40" name="invoice" type="string"/>
+        <element label="Date AP Entered" max_length="255" name="date_ap_entered" type="calendar_date_time"/>
+        <element label="Transport" max_length="40" name="transport" type="string"/>
+        <element label="Serial" max_length="40" name="serial" type="string"/>
+        <element label="Parts" max_length="32" name="parts" reference="sys_user" type="reference"/>
+        <element label="Tax" max_length="40" name="tax" type="string"/>
+        <element choice="1" label="Days" max_length="40" name="days" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Choice 4" sequence="3" value="Choice 4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Cost Center" max_length="40" name="cost_center" type="choice">
+            <choice/>
+        </element>
+        <element label="Contract" max_length="40" name="contrac0" type="string"/>
+        <element label="Invoice Total" max_length="20" name="invoice_total" type="currency"/>
+    </element>
+</database>

@@ -24,6 +24,7 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
         <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -46,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="Syed Hussain">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 

@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-07-06 20:39:28</sys_created_on>
-            <sys_id>a899b2e093df0210481330a97bba108d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>basin_location</sys_name>
             <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-07-06 20:39:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2499b2e093df0210481330a97bba108d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 20:39:28</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-07-06 20:39:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e899f2e093df0210481330a97bba100f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 20:39:28</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-07-06 20:39:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e899f2e093df0210481330a97bba1014</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 20:39:28</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-07-06 20:39:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e899f2e093df0210481330a97bba1019</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 20:39:28</sys_updated_on>

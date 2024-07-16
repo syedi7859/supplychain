@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="69217ea893d7c6100b70322efaba10fe" sys_domain="global" table="x_1441475_supply_0_rentals" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:02:41</sys_created_on>
+            <sys_id>a521bea893d7c6100b70322efaba1027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_rentals" sys_domain="global" view="Default view">69217ea893d7c6100b70322efaba10fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:02:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1441475_supply_0_rentals</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-06 20:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69217ea893d7c6100b70322efaba10fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441475_supply_0_rentals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+            <sys_update_name>sys_ui_section_69217ea893d7c6100b70322efaba10fe</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-06 20:02:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>468b4141db9a711c37d72a59139619d2</instance_id>
+        <instance_name>dev201220</instance_name>
+        <name>sys_ui_section_69217ea893d7c6100b70322efaba10fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="69217ea893d7c6100b70322efaba10fe" sys_domain="global" table="x_1441475_supply_0_rentals" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-06 20:02:41</sys_created_on><sys_id>a521bea893d7c6100b70322efaba1027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441475_supply_0_rentals" sys_domain="global" view="Default view">69217ea893d7c6100b70322efaba10fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-06 20:02:41</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1441475_supply_0_rentals</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-06 20:02:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69217ea893d7c6100b70322efaba10fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441475_supply_0_rentals</sys_name><sys_overrides/><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>sys_ui_section_69217ea893d7c6100b70322efaba10fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-06 20:02:41</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-499170222</payload_hash>
+        <record_name>Rentals</record_name>
+        <reverted_from/>
+        <source>26ff9eac9357c6100b70322efaba1037</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 20:02:41</sys_created_on>
+        <sys_id>a521bea893d7c6100b70322efaba1029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19089a442500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 20:02:41</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2d21bea8bdd7c61095bfe8dac69cf328</update_guid>
+        <update_guid_history>2d21bea8bdd7c61095bfe8dac69cf328:-499170222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 20:36:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>841b3e6ff4fc49808dd45c82a0708f44</sys_id>
+        <sys_metadata>69217ea893d7c6100b70322efaba10fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent display_value="Rentals">a5b9c52093df86100b70322efaba1034</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>sys_ui_section_69217ea893d7c6100b70322efaba10fe</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_69217ea893d7c6100b70322efaba10fe">a521bea893d7c6100b70322efaba1029</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 20:36:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

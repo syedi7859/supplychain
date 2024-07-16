@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
-            <sys_id>3cfa6a6093d7c6100b70322efaba10d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>qty</sys_name>
             <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f4fa6a6093d7c6100b70322efaba10d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 19:35:36</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bcfa6a6093d7c6100b70322efaba10d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 19:35:36</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f0faaa6093d7c6100b70322efaba1003</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 19:35:36</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f0faaa6093d7c6100b70322efaba1008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 19:35:36</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2024-07-06 19:35:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f0faaa6093d7c6100b70322efaba100d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 19:35:36</sys_updated_on>

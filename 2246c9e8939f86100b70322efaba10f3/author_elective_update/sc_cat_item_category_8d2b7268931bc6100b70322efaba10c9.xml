@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Rental Requests">db3afee4931bc6100b70322efaba1024</sc_cat_item>
+        <sc_category display_value="Supply Chain Management">b842d56c93df86100b70322efaba100b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 20:46:21</sys_created_on>
+        <sys_id>8d2b7268931bc6100b70322efaba10c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Management.Rental Requests</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sc_cat_item_category_8d2b7268931bc6100b70322efaba10c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 20:46:21</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>468b4141db9a711c37d72a59139619d2</instance_id>
+        <instance_name>dev201220</instance_name>
+        <name>sc_cat_item_category_8d2b7268931bc6100b70322efaba10c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Rental Requests">db3afee4931bc6100b70322efaba1024</sc_cat_item><sc_category display_value="Supply Chain Management">b842d56c93df86100b70322efaba100b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-06 20:46:21</sys_created_on><sys_id>8d2b7268931bc6100b70322efaba10c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Supply Chain Management.Rental Requests</sys_name><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>sc_cat_item_category_8d2b7268931bc6100b70322efaba10c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-06 20:46:21</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1585873174</payload_hash>
+        <record_name>Supply Chain Management.Rental Requests</record_name>
+        <reverted_from/>
+        <source>26ff9eac9357c6100b70322efaba1037</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 20:46:21</sys_created_on>
+        <sys_id>852b7268931bc6100b70322efaba10ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19089cc3b380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 20:46:21</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>852b7268a01bc61058778aec6430aacd</update_guid>
+        <update_guid_history>852b7268a01bc61058778aec6430aacd:-1585873174</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Supply Chain Management.Rental Requests">bb9bfa68931bc6100b70322efaba10f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 20:48:26</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2823e27cc98445b1af7b65e80acb2c89</sys_id>
+        <sys_metadata>8d2b7268931bc6100b70322efaba10c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Management.Rental Requests</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8d2b7268931bc6100b70322efaba10c9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8d2b7268931bc6100b70322efaba10c9">852b7268931bc6100b70322efaba10ce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 20:48:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

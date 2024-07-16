@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4598dec939f86100b70322efaba1052" extends="task" label="Tire Service" max_length="40" name="x_1441475_supply_0_tire_service" type="collection">
+        <element label="Add Is this an emergency ?" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element choice="1" label="Basin" mandatory="true" max_length="40" name="basin" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Basin 2" sequence="1" value="Basin 2"/>
+                <element inactive_on_update="false" label="Basin 3" sequence="2" value="Basin 3"/>
+                <element inactive_on_update="false" label="Basin 4" sequence="3" value="Basin 4"/>
+                <element inactive_on_update="false" label="Basin 5" sequence="4" value="Basin 5"/>
+                <element inactive_on_update="false" label="Basin 1" sequence="0" value="Basin 1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Quantity" mandatory="true" max_length="40" name="quantity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date / Time of Service" mandatory="true" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="encode_utf8=false" label="Frac Crew" mandatory="true" max_length="32" name="u_frac_crew" reference="sys_user" type="reference"/>
+        <element choice="1" label="Service Center" mandatory="true" max_length="40" name="service_center" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="SC4" sequence="3" value="SC4"/>
+                <element inactive_on_update="false" label="SC5" sequence="4" value="SC5"/>
+                <element inactive_on_update="false" label="SC2" sequence="1" value="SC2"/>
+                <element inactive_on_update="false" label="SC3" sequence="2" value="SC3"/>
+                <element inactive_on_update="false" label="SC1" sequence="0" value="SC1"/>
+            </choice>
+        </element>
+        <element label="License Plate #" mandatory="true" max_length="40" name="license_plate" type="string"/>
+        <element label="Brief Service Description" mandatory="true" max_length="255" name="brief_service_description" type="string_full_utf8"/>
+        <element label="Unit #" mandatory="true" max_length="40" name="unit" reference="sys_user" type="reference"/>
+        <element label="Delivery Receipt (DR) #" mandatory="true" max_length="40" name="delivery_receipt_dr" type="string"/>
+        <element label="Customer" mandatory="true" max_length="32" name="customer" reference="sys_user" type="reference"/>
+        <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="Service Location" max_length="40" name="service_location" type="string"/>
+        <element choice="1" label="Tire Model" mandatory="true" max_length="40" name="tire_model" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Model 1" sequence="0" value="Model 1"/>
+                <element inactive_on_update="false" label="Model 2" sequence="1" value="Model 2"/>
+                <element inactive_on_update="false" label="Model 3" sequence="2" value="Model 3"/>
+                <element inactive_on_update="false" label="Model 4" sequence="3" value="Model 4"/>
+                <element inactive_on_update="false" label="Model 5" sequence="4" value="Model 5"/>
+            </choice>
+        </element>
+        <element choice="1" label="Unit Type" mandatory="true" max_length="40" name="unit_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Unit 2" sequence="1" value="Unit 2"/>
+                <element inactive_on_update="false" label="Unit 3" sequence="2" value="Unit 3"/>
+                <element inactive_on_update="false" label="Unit 4" sequence="3" value="Unit 4"/>
+                <element inactive_on_update="false" label="Unit 5" sequence="4" value="Unit 5"/>
+                <element inactive_on_update="false" label="Unit 1" sequence="0" value="Unit 1"/>
+            </choice>
+        </element>
+    </element>
+</database>

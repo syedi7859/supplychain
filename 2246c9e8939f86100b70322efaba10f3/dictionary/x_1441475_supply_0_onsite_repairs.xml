@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0199c12093df86100b70322efaba10e9" extends="task" label="Onsite Repairs" max_length="40" name="x_1441475_supply_0_onsite_repairs" type="collection">
+        <element label="Service Requested" mandatory="true" max_length="40" name="service_requested" type="string"/>
+        <element label="Date Posted in SAP" mandatory="true" max_length="255" name="date_posted_in_sap" type="calendar_date_time"/>
+        <element label="Invoice Amount" max_length="40" name="invoice_amount" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Frac Spread Identifier" mandatory="true" max_length="32" name="frac_spread_identifier" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="G/L Code" mandatory="true" max_length="40" name="g_l_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="G/L 1" sequence="0" value="G/L 1"/>
+                <element inactive_on_update="false" label="G/L 2" sequence="1" value="G/L 2"/>
+                <element inactive_on_update="false" label="G/L 3" sequence="2" value="G/L 3"/>
+                <element inactive_on_update="false" label="G/L 4" sequence="3" value="G/L 4"/>
+            </choice>
+        </element>
+        <element label="Date/Time of Service" mandatory="true" max_length="255" name="date_time_of_service" type="calendar_date_time"/>
+        <element label="Date Sent to A/P" mandatory="true" max_length="255" name="date_sent_to_a_p" type="calendar_date_time"/>
+        <element label="Actual Invoice" mandatory="true" max_length="255" name="actual_invoice" type="calendar_date_time"/>
+        <element label="Location/Region" max_length="40" name="location_region" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Requestor" mandatory="true" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Basin Location" mandatory="true" max_length="40" name="basin_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="B1" sequence="0" value="B1"/>
+                <element inactive_on_update="false" label="B2" sequence="1" value="B2"/>
+                <element inactive_on_update="false" label="B3" sequence="2" value="B3"/>
+                <element inactive_on_update="false" label="B4" sequence="3" value="B4"/>
+            </choice>
+        </element>
+        <element label="Estimate" mandatory="true" max_length="40" name="estimate" type="string"/>
+        <element label="Requested by" max_length="40" name="requested" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Unit #" mandatory="true" max_length="32" name="unit" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vendor" mandatory="true" max_length="40" name="vendor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="V2" sequence="1" value="V2"/>
+                <element inactive_on_update="false" label="V3" sequence="2" value="V3"/>
+                <element inactive_on_update="false" label="V4" sequence="3" value="V4"/>
+                <element inactive_on_update="false" label="V1" sequence="0" value="V1"/>
+            </choice>
+        </element>
+        <element label="Invoice #" max_length="40" name="invoice" type="string"/>
+    </element>
+</database>

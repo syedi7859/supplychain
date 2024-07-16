@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1441475_supply_0_onsite_repairs">x_1441475_supply_0_onsite_repairs</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>ONS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 08:47:35</sys_created_on>
+        <sys_id>8e30253893570a100b70322efaba107e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ONS</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_number_8e30253893570a100b70322efaba107e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 08:47:35</sys_updated_on>
+    </sys_number>
+</record_update>
